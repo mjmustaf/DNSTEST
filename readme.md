@@ -23,12 +23,3 @@
 pip3 install -r requirements.txt
 ```
 
-### Sample usage
-
-```
-TODO
-```
-
-### output
-
-TODO
