@@ -1,0 +1,3 @@
+zone,name,type,content,ttl
+mia,sre-test-mia.mia.ucloud.int,A,10.0.0.1,30
+dlas1,sre-test-dlas1.dlas1.ucloud.int,A,10.0.0.2,30
